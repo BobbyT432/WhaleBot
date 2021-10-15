@@ -1,0 +1,2 @@
+# WhaleBot
+Discord Bot
